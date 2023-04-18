@@ -1,3 +1,3 @@
-# Marconix-Website
+# plain-business-website-template
 
-https://nameisluv.github.io/marconix-website/
+https://nameisluv.github.io/plain-business-website-template/
